@@ -1,0 +1,17 @@
+# Generated machine data belongs outside this shareable skill.
+__pycache__/
+*.py[cod]
+.DS_Store
+local/
+private/
+state/
+reports/
+storage-reports/
+permission-checks/
+sessions/
+cache/
+bin/
+profile.local.json
+*.request.json
+*.result.json
+latest-*.json
